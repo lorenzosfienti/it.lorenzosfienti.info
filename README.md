@@ -1,11 +1,11 @@
 # it.lorenzosfienti.info
 
-Repository of website <info.lorenzosfienti.it>
+Repository of website [info.lorenzosfienti.it](https://info.lorenzosfienti.it)
 
 ## Before you start coding
 
 - [ ] If you don't plan to use GitHub Actions, delete the `.github` directory.
-- [ ] Change the `favicon.png`, `apple-touch-icon.png`, `android-chrome-192x192.png` and `android-chrome-512x512.png`. [favicon.io](https://favicon.io) is a cool tool for generating these assets.
+- [ ] Change all the favicon image inside the public. [favicon.io](https://favicon.io) is a cool tool for generating these assets.
 - [ ] Modify or delete the `LICENSE` file.
 - [ ] Change the `name` field in package.json.
 
