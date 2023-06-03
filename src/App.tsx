@@ -13,6 +13,10 @@ function App() {
     {
       'link': 'https://twitter.com/lorenzosfienti',
       'name': 'Twitter'
+    },
+    {
+      'link': 'https://github.com/lorenzosfienti',
+      'name': 'Github'
     }
   ];
   return (
